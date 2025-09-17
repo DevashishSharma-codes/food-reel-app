@@ -4,7 +4,7 @@ This is the **backend code** for the Food Reel app, built using Node.js, Express
 
 ---
 
-## Features
+## Features 
 
 - **User Authentication & Authorization** using JWT and bcrypt
 - **User Model**: Register, login, and manage users
